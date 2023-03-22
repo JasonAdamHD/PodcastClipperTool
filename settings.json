@@ -1,0 +1,9 @@
+{
+    "directories" : {
+        "download_dir" : "DIR",
+        "output_dir" : "DIR",
+        "creds_dir" : "DIR"
+        
+    },
+    "channel_id" : "CHANNEL_ID"
+}
